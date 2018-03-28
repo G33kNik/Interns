@@ -1,9 +1,9 @@
-import time;
-from life import *;
-Will = True;
-while Will:
- Write(ideas);
- Code(ideas);
- if Reflection(Time):
-    time.sleep(ideation(Feedback));
-explore();
+import time; <br/>
+from life import *; <br/>
+Will = True; <br/>
+while Will: <br/>
+ Write(ideas); <br/>
+ Code(ideas); <br/>
+ if Reflection(Time): <br/>
+    time.sleep(ideation(Feedback)); <br/>
+explore(); <br/>
